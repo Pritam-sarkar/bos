@@ -1,0 +1,2 @@
+# bos
+A bootstrap project
